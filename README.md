@@ -2,7 +2,7 @@
 
 I'm a smart assistant! I give my users relevant weather forecasts, advice what to wear for today, and remind to take umbrella :)
 
-To start me you need to do the following steps:
+### To start me you need to do the following steps:
 
 1) Download this repositiry;
 2) Get bot's token from @BotFather;
@@ -11,7 +11,7 @@ To start me you need to do the following steps:
 5) Set nessessary information in config.py;
 6) Enjoy it!
 
-Technical requirements:
+### Technical requirements:
 
 1) Windows 7, 8.1 or 10;
 2) Python 3.7+.
