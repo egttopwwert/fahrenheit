@@ -20,6 +20,9 @@ I'm a smart assistant! I give my users relevant weather forecasts, advice what t
 I was separated into different components and commented on all the code as maximum extent possible. So I hope you won't get any trouble adding new features.
 To contribute to this project, you just need to fork this repository and translate your ideas into reality :)
 
+### License
+Distributed under the MIT License.
+
 ### Contact
 My developer: Illia Malovanyi - @egttopwwert (Telegram) - egttopwwert@gmail.com (email)
 
