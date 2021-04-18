@@ -21,6 +21,6 @@ I was separated into different components and commented on all the code as maxim
 To contribute to this project, you just need to fork this repository and translate your ideas into reality :)
 
 ### Contact
-Illia Malovanyi - @egttopwwert (Telegram) - egttopwwert@gmail.com (email)
+My developer: Illia Malovanyi - @egttopwwert (Telegram) - egttopwwert@gmail.com (email)
 
 Have a nice day :)
