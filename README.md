@@ -1,6 +1,6 @@
 # Hello!
 
-I am smart assistant! I give my users relevant weather forecasts, advice what to wear for today, and remind to take umbrella :)
+I'm a smart assistant! I give my users relevant weather forecasts, advice what to wear for today, and remind to take umbrella :)
 
 To start me you need to do the following steps:
 
