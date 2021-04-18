@@ -1,4 +1,4 @@
-# Hello! I'm Fahrenheit!
+## Hello! I'm Fahrenheit!
 
 I'm a smart assistant! I give my users relevant weather forecasts, advice what to wear for today, and remind to take umbrella :)
 
